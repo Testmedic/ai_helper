@@ -1,0 +1,11 @@
+# AI Helper for Medical Consultations
+# This application uses only Python standard library modules
+# No external dependencies required for basic functionality
+
+# Future enhancements could include:
+# speech_recognition>=3.10.0  # For audio input processing
+# pyaudio>=0.2.11            # For microphone input
+# openai>=1.0.0              # For advanced AI analysis
+# transformers>=4.0.0        # For local ML models
+# streamlit>=1.0.0           # For web UI
+# flask>=2.0.0               # For API endpoints
